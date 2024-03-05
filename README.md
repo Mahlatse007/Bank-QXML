@@ -1,7 +1,7 @@
 # Bank---QXML
 Banking Application developed using QtCreator (C++)
 
-This project is a Banking Application developed using QtCreator. It provides a graphical user interface (GUI) for managing banking transactions and includes various sorting algorithms for data manipulation.
+It provides a graphical user interface (GUI) for managing banking transactions and includes various sorting algorithms for data manipulation.
 
 Features:
 
@@ -12,6 +12,7 @@ Supports reading and writing transaction data from/to files.
 Utilizes an abstract factory design pattern for creating sorting algorithms dynamically.
 
 Components:
+
 mainwindow.cpp and mainwindow.h: Implement the main window of the application.
 sort.cpp and sort.h: Define the base class for sorting algorithms.
 sortfactory.cpp and sortfactory.h: Implement the abstract factory for sorting algorithms.
