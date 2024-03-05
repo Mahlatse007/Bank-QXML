@@ -1,4 +1,4 @@
-# Bank---QXML
+# Bank-QXML
 Banking Application developed using QtCreator (C++)
 
 It provides a graphical user interface (GUI) for managing banking transactions and includes various sorting algorithms for data manipulation.
